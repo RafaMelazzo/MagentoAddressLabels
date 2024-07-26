@@ -1,0 +1,27 @@
+.field.street {
+    margin: 0
+}
+
+.field.street > legend.label {
+    display: none;
+}
+
+.field.street .control .field {
+    margin: 0 0 20px;
+}
+
+.field.street .control .field label {
+    display: inline-block;
+    position: relative;
+    margin: 0 0 8px;
+    width: auto;
+    height: auto;
+    overflow: unset;
+}
+
+.field.street .control .field._required label:after {
+    content: '*';
+    color: #e02b27;
+    font-size: 1.2rem;
+    margin: 0 0 0 5px;
+}
