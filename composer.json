@@ -1,13 +1,12 @@
 {
-    "name": "melazzo/street-address",
+    "name": "melazzo/magento-street-address",
     "authors": [
         {
-            "name": "Melazzo",
-            "email": "opensource@pagar.me",
-            "homepage": "https://pagar.me/"
+            "name": "Rafael Seiffer Melazzo",
+            "email": "rafamelazzo@gmail.com"
         }
     ],
-    "description": "Pagar.me Street Address Labels",
+    "description": "Magento Street Address Labels",
     "require": {
         "php": "7.0.2|7.0.4|~7.0.6|~7.1.0",
         "magento/magento-composer-installer": "*"
