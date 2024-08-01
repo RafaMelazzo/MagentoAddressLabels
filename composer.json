@@ -19,7 +19,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "Melazzo\\AddressLabels\\": ""
+            "Melazzo\\MagentoAddressLabels\\": ""
         }
     }
 }
