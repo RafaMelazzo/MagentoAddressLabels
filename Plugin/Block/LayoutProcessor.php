@@ -1,5 +1,5 @@
 <?php
-namespace Melazzo\MagentoAddressLabels\Plugin\Block;
+namespace RafaMelazzo\MagentoAddressLabels\Plugin\Block;
 
 use Closure;
 use Magento\Checkout\Block\Checkout\LayoutProcessor as MagentoLayoutProcessor;

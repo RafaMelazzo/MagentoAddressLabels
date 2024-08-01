@@ -1,5 +1,5 @@
 {
-    "name": "melazzo/magento-street-address",
+    "name": "rafamelazzo/magento-street-address",
     "authors": [
         {
             "name": "Rafael Seiffer Melazzo",
@@ -18,7 +18,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "Melazzo\\MagentoAddressLabels\\": ""
+            "RafaMelazzo\\MagentoAddressLabels\\": ""
         }
     }
 }
