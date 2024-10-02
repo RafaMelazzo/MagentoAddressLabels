@@ -1,3 +1,8 @@
+:root {
+    --fields-margin-bottom: 20px;
+    --last-address-field-margin-bottom: var(--fields-margin-bottom);
+}
+
 .field.street {
     margin: 0
 }
@@ -7,11 +12,11 @@
 }
 
 .field.street .control .field {
-    margin: 0 0 .75rem !important;
+    margin: 0 0 var(--fields-margin-bottom) !important;
 }
 
 .field.street .control .field:last-of-type {
-    margin-bottom: 0 !important;
+    margin-bottom: var(--last-address-field-margin-bottom) !important;
 }
 
 .field.street .control .field label {
